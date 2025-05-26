@@ -1,4 +1,4 @@
-# Financial Analysis Project---Ralph Lauren</br>
+# Financial Analysis Project---Ralph Lauren, PVH</br>
 This repository contains a comprehensive financial analysis project focusing on Ralph Lauren, a Fortune 500 company. Conducted as a solo project, the analysis includes a detailed examination of Ralph Lauren's financial performance, encompassing solvency, liquidity, and profitability from the years 2019 - 2023. Additionally, an analysis on PVH as a comparison and a sole company. 
 
 # Contents</br>
